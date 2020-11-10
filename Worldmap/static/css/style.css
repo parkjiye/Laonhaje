@@ -110,7 +110,7 @@ select, input, textarea, button {
 }
 
 pre, code, kbd, samp {
-  font-family: monospace, sans-serif;
+  font-family: 'Do Hyeon', sans-serif;
 }
 
 html {
@@ -490,7 +490,7 @@ article .zilla-likes {
   width: 100%;
   text-align: center;
   background: none;
-  font-family: 'Helvetica', Arial, sans-serif;
+  font-family: 'Do Hyeon', sans-serif;
   font-size: 20px;
 }
 article .zilla-likes .zilla-likes-count:before {
@@ -638,7 +638,7 @@ mark {
 
 code, tt {
   padding: 0 4px;
-  font-family: "Courier New", monospace, sans-serif;
+  font-family: 'Do Hyeon', sans-serif;
   border: 1px solid #E3EDF3;
   background: #F7FAFB;
   border-radius: 2px;
@@ -650,7 +650,7 @@ pre {
   border: 1px solid #E3EDF3;
   width: 96%;
   padding: 20px;
-  font-family: "Courier New", monospace, sans-serif;
+  font-family: 'Do Hyeon', sans-serif;
   white-space: pre;
   overflow: auto;
   background: #F7FAFB;
@@ -717,7 +717,7 @@ input[type="tel"], input[type="password"], textarea {
   font-size: 19px;
   font-size: 1.9rem;
   font-weight: 400;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Do Hyeon', sans-serif;
   width: 100%;
   color: #737171;
   -o-transition: all 0.25s ease-in-out;
@@ -1994,7 +1994,7 @@ input[type="tel"], input[type="password"], textarea,
 #edd_checkout_form_wrap,
 header.header nav, .hero, #comments .url,
 .form-submit input[type="submit"] {
-  font-family: 'Amatic SC', 'Heveltica Neue', Arial, sans-serif;
+  font-family: 'Do Hyeon', sans-serif;
 }
 
 /* Font Sizes */
@@ -2226,7 +2226,7 @@ body, html {
 }
 
 .hero {
-  background-color: #f08c79;
+  background-color: #6B8E23;
 }
 
 button:hover, input[type="submit"]:hover {
@@ -2269,7 +2269,7 @@ header.header nav ul > li.current-page-ancestor > a,
 }
 
 body, blockquote {
-  border-color: #f08c79;
+  border-color: #FAEBD7;
 }
 
 a:hover h1.entry-title {
@@ -3376,7 +3376,7 @@ a.social.white.spotify, header.header.background--dark a.social.spotify, header.
 body, input[type="text"], input[type="email"], input[type="tel"],
 input[type="url"], input[type="password"], textarea,
 input[type="submit"] {
-  font-family: 'Lato', Arial, sans-serif;
+  font-family: 'Do Hyeon', sans-serif;
 }
 
 input[type="text"], input[type="url"], input[type="email"], input[type="tel"], input[type="password"], textarea {

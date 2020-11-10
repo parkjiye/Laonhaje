@@ -12,4 +12,6 @@ def single(request):
     return render(request, 'single.html', {})
 def typography(request):
     return render(request, 'typography.html', {})
+def coupon(request):
+    return render(request, 'coupon.html', {})
 # Create your views here.

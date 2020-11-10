@@ -15,7 +15,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, re_path
-from web.views import index,about,blog,contact,single,typography
+from web.views import index,about,blog,contact,single,typography,coupon
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -26,4 +26,5 @@ urlpatterns = [
     re_path(r'^contact',contact),
     re_path(r'^single',single),
     re_path(r'^typography',typography),
+    re_path(r'^coupon',coupon),
 ]
